@@ -1,42 +1,31 @@
 # Cybersecurity Labs and Portfolio Exercises
 
+![Linux](https://img.shields.io/badge/Linux-Security-FCC624?style=flat&logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-Investigation-336791?style=flat&logo=postgresql&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-Analysis-1679A7?style=flat&logo=wireshark&logoColor=white)
+![NIST](https://img.shields.io/badge/NIST-CSF-0B3D5C?style=flat)
+
 ## Overview
 
-This section summarizes hands-on exercises completed while developing foundational cybersecurity skills. The work covers network analysis, Linux permissions, SQL investigation, incident response, security frameworks, and SIEM concepts.
+This repository documents foundational cybersecurity exercises in network analysis, Linux authorization, SQL investigation, incident response, risk management, and SIEM concepts.
 
-## Selected Exercises
+## Labs
 
-### Network Traffic Analysis
+| Lab | Skills demonstrated |
+| --- | --- |
+| [Linux File Permissions](labs/linux-file-permissions.md) | `ls -la`, `chmod`, `chown`, least privilege, authorization |
+| [SQL Security Queries](labs/sql-security-queries.sql) | Filters, date and time investigation, departments, joins |
+| [DNS and ICMP Incident Analysis](labs/dns-icmp-incident-analysis.md) | tcpdump interpretation, DNS, ICMP, port 53, incident documentation |
 
-- Used tcpdump output to identify DNS traffic and ICMP destination-port-unreachable errors.
-- Interpreted port 53 activity and documented a network incident.
-- Compared Wireshark and tcpdump for graphical and command-line packet analysis.
+## Additional Portfolio Areas
 
-### Linux Security Administration
-
-- Examined file and directory permissions.
-- Used `chmod`, `chown`, and related commands to manage authorization.
-- Practiced user and group management with administrative commands.
-- Used `grep`, pipes, `man`, `whatis`, and `apropos` for analysis and support.
-
-### SQL for Security Analysis
-
-- Filtered login activity using `AND`, `OR`, and `NOT`.
-- Investigated failed logins, after-hours activity, dates, departments, and locations.
-- Practiced `INNER JOIN` queries and database relationships.
-
-### Incident Response and Risk
-
-- Applied the NIST Cybersecurity Framework to an incident scenario.
-- Practiced incident-journal documentation and playbook-based response.
-- Evaluated controls, compliance gaps, access management, and network hardening.
-- Applied threat-modeling concepts, including the PASTA framework.
-
-### SIEM and Log Analysis
-
-- Studied centralized log collection, alerting, visualization, and investigation.
-- Practiced basic searches in a Wazuh learning environment.
-- Reviewed common log sources such as authentication, firewall, DNS, web, application, and database logs.
+- NIST Cybersecurity Framework incident-response report
+- Wireshark versus tcpdump comparison
+- Network-hardening analysis
+- Internal security audit and controls assessment
+- Incident handler's journal
+- Threat modeling using PASTA
+- SIEM concepts and Wazuh search practice
 
 ## Tools and Concepts
 
@@ -45,17 +34,10 @@ This section summarizes hands-on exercises completed while developing foundation
 - tcpdump and Wireshark
 - Wazuh and SIEM fundamentals
 - NIST CSF
-- Access control, network segmentation, ACLs, IDS/IPS, VPNs, and firewalls
+- Firewalls, ACLs, network segmentation, IDS/IPS, and VPNs
 - Incident response, risk assessment, and threat modeling
 
-## Portfolio Evidence to Add
+## Ethics and Privacy
 
-- Sanitized incident report
-- Linux file-permissions report
-- SQL query portfolio with explanations
-- NIST CSF incident-response report
-- Wireshark versus tcpdump comparison
-- Incident handler's journal
-
-Use only course-authorized screenshots and original explanations. Remove account identifiers, tokens, personal information, and any assessment answers that should remain private.
+This repository contains original explanations, sanitized examples, and authorized learning material. Credentials, private data, account identifiers, protected assessment answers, and confidential screenshots are excluded.
 
