@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/portfolio-banner.svg" alt="Naqimuddin Aqil - IT, Networking and Cybersecurity Portfolio" width="100%">
+  <img src="assets/portfolio-banner.svg" alt="Naqimuddin Aqil Bin Burhanuddin - IT, Networking and Cybersecurity Portfolio" width="100%">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@ Final-year Electronic Network Design student at Universiti Malaysia Perlis with 
 ## Quick Profile
 
 - Bachelor of Electronic Engineering Technology (Electronic Network Design) with Honours
-- Current CGPA: 3.49
+- Current CGPA: 3.47
 - Technical internship experience at VSTECS KU Sdn. Bhd.
 - Previous IT Intern and Junior Technician experience at Wevo Technology Sdn. Bhd.
 - Gold Medal and Best Award recipient for an IoT monitoring system
