@@ -1,8 +1,12 @@
-# Networking Labs
+# Cisco Networking Labs
+
+![Cisco](https://img.shields.io/badge/Cisco-Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Growing_Portfolio-2E8B57?style=flat)
 
 ## Overview
 
-This section documents representative networking knowledge developed through the Electronic Network Design programme, Cisco Networking Academy courses, practical labs, and technical work experience.
+This repository documents networking labs based on skills developed through the Electronic Network Design programme, Cisco Networking Academy training, practical labs, and technical work experience.
 
 ## Hardware and Tools
 
@@ -10,47 +14,36 @@ This section documents representative networking knowledge developed through the
 - Cisco 4221 routers
 - Cisco Packet Tracer
 - Wireshark
-- IP phones and end-user network devices
+- IP phones and end-user devices
 
-## Skills Practiced
+## Skills Covered
 
 - IPv4 addressing and subnetting
-- Basic router and switch configuration
-- VLAN concepts and switch-port configuration
+- Router and switch configuration
+- VLANs and access ports
+- 802.1Q trunks and inter-VLAN routing
 - Routing and switching fundamentals
 - DHCP, DNS, TCP/IP, and LAN/WAN concepts
-- Connectivity verification and structured troubleshooting
+- Connectivity verification and troubleshooting
 - Packet capture and protocol analysis
-- Basic access-control and network-security concepts
+- ACL and network-segmentation concepts
 
-## Recommended Lab Portfolio
+## Labs
 
-Create one folder or separate repository for each lab:
+| Lab | Topics | Status |
+| --- | --- | --- |
+| [VLAN and Inter-VLAN Routing](labs/01-vlan-intervlan-routing/README.md) | VLAN 10, VLAN 20, trunking, router-on-a-stick, verification | Documentation and configurations ready |
+| IPv4 Subnetting | Address planning, masks, host ranges, gateways | Planned |
+| Wireshark Protocol Analysis | DNS, ICMP, TCP, and HTTP | Planned |
+| Basic ACL | Traffic filtering and segmentation | Planned |
 
-1. Small office network with an addressing plan
-2. VLAN segmentation and inter-VLAN routing
-3. Static and dynamic routing comparison
-4. DHCP service and connectivity testing
-5. Wireshark analysis of DNS, TCP, ICMP, and HTTP traffic
-6. Basic ACL and network-segmentation exercise
+## Repository Roadmap
 
-## Documentation Format for Each Lab
+- [x] Add a complete VLAN and inter-VLAN routing lab.
+- [ ] Add the Packet Tracer `.pkt` file after testing.
+- [ ] Add sanitized CLI verification output.
+- [ ] Add a Wireshark capture using lab-generated traffic.
+- [ ] Add a basic ACL lab.
 
-- Objective and scenario
-- Topology diagram
-- Addressing table
-- Device configurations
-- Verification commands
-- Troubleshooting notes
-- Final results and lessons learned
-
-## Suggested Evidence
-
-- Packet Tracer `.pkt` file
-- Sanitized CLI configuration
-- `show` command output
-- Wireshark screenshots from lab traffic
-- Troubleshooting decision log
-
-Use private or sample IP addresses and remove all credentials before publishing.
+All published configurations use private lab addressing and contain no production credentials.
 
