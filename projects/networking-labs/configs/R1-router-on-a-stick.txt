@@ -1,0 +1,25 @@
+enable
+configure terminal
+hostname R1
+
+interface GigabitEthernet0/0/0
+ description TRUNK_TO_SW1
+ no ip address
+ no shutdown
+exit
+
+interface GigabitEthernet0/0/0.10
+ encapsulation dot1Q 10
+ description STAFF_GATEWAY
+ ip address 192.168.10.1 255.255.255.0
+exit
+
+interface GigabitEthernet0/0/0.20
+ encapsulation dot1Q 20
+ description LAB_GATEWAY
+ ip address 192.168.20.1 255.255.255.0
+exit
+
+end
+copy running-config startup-config
+
