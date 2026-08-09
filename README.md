@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=qimjoyy&label=Profile%20views&color=0e7490&style=flat" alt="Profile views">
   <a href="mailto:aqilznaqimuddin@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0B3D5C?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/naqimuddin-aqil-bin-burhanuddin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/naqimuddin-aqil/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="assets/Naqimuddin_Aqil_Resume.pdf"><img src="https://img.shields.io/badge/Resume-View_PDF-167D9A?style=flat&logo=adobeacrobatreader&logoColor=white" alt="Resume"></a>
 </p>
 
@@ -200,7 +200,7 @@ CGPA: 3.14
 ## Connect With Me
 
 - Email: [aqilznaqimuddin@gmail.com](mailto:aqilznaqimuddin@gmail.com)
-- LinkedIn: [linkedin.com/in/naqimuddin-aqil-bin-burhanuddin](https://www.linkedin.com/in/naqimuddin-aqil-bin-burhanuddin)
+- LinkedIn: [linkedin.com/in/naqimuddin-aqil](https://www.linkedin.com/in/naqimuddin-aqil/)
 - GitHub: [github.com/qimjoyy](https://github.com/qimjoyy)
 
 > Project documentation is sanitized. Credentials, private company files, customer data, device serial numbers, and confidential deployment documents are intentionally excluded.
