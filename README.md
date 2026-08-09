@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/portfolio-banner.svg" alt="Naqimuddin Aqil - IT, Networking and Cybersecurity Portfolio" width="100%">
+  <img src="assets/portfolio-banner.svg" alt="Naqimuddin Aqil Bin Burhanuddin - IT, Networking and Cybersecurity Portfolio" width="100%">
 </p>
 
 <p align="center">
