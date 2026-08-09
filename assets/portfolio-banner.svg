@@ -35,7 +35,7 @@
     <text x="350" y="142" fill="#FFFFFF" font-size="36" font-weight="700" letter-spacing="0.6">NAQIMUDDIN AQIL BIN BURHANUDDIN</text>
     <text x="352" y="195" fill="#AEEEF4" font-size="25" font-weight="600" letter-spacing="3">IT  |  NETWORKING  |  CYBERSECURITY</text>
     <rect x="352" y="221" width="680" height="5" rx="2.5" fill="url(#accent)"/>
-    <text x="352" y="267" fill="#D7F5F7" font-size="19">Electronic Network Design | Troubleshooting | Automation | Security</text>
+    <text x="352" y="267" fill="#D7F5F7" font-size="19">Electronic Network Design</text>
   </g>
   <g transform="translate(1136 56)" fill="none" stroke="#7BF2C5" opacity="0.65">
     <circle cx="0" cy="0" r="7" fill="#7BF2C5"/>
