@@ -15,7 +15,7 @@ Final-year Electronic Network Design student at Universiti Malaysia Perlis with 
 
 - Based in Petaling Jaya, Selangor, Malaysia
 - Bachelor of Electronic Engineering Technology (Electronic Network Design) with Honours
-- CGPA: 3.49
+- CGPA: 3.47
 - Cisco networking, Wireshark, Linux, SQL, automation, and cybersecurity fundamentals
 - Open to entry-level IT, networking, infrastructure, and cybersecurity opportunities
 
@@ -139,7 +139,7 @@ Final-year Electronic Network Design student at Universiti Malaysia Perlis with 
 
 **Bachelor of Electronic Engineering Technology (Electronic Network Design) with Honours**  
 Universiti Malaysia Perlis | Expected October 2026  
-CGPA: 3.49 | Dean's List: Semesters 1, 2, and 4
+CGPA: 3.47 | Dean's List: Semesters 1, 2, and 4
 
 **Diploma in Engineering (Computer Engineering)**  
 Universiti Malaysia Perlis | 2019 - 2022  
