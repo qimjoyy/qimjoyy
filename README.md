@@ -56,13 +56,59 @@ Final-year Electronic Network Design student at Universiti Malaysia Perlis with 
 
 ## Licences, Certifications, and Training
 
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/47c0c3f2-7088-4935-98fe-2156c95750d1/public_url">
+        <img src="https://images.credly.com/images/0a6d331e-8abf-4272-a949-33f754569a76/linkedin_thumb_CCNAENSA__1_.png" width="120" alt="CCNA: Enterprise Networking, Security, and Automation badge">
+      </a><br>
+      <a href="https://www.credly.com/badges/47c0c3f2-7088-4935-98fe-2156c95750d1/public_url"><strong>CCNA: Enterprise Networking, Security, and Automation</strong></a><br>
+      Cisco
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/9afd5b80-2f70-4458-a2b2-d20f2bde7325/public_url">
+        <img src="https://images.credly.com/images/f4ccdba9-dd65-4349-baad-8f05df116443/linkedin_thumb_CCNASRWE__1_.png" width="120" alt="CCNA: Switching, Routing, and Wireless Essentials badge">
+      </a><br>
+      <a href="https://www.credly.com/badges/9afd5b80-2f70-4458-a2b2-d20f2bde7325/public_url"><strong>CCNA: Switching, Routing, and Wireless Essentials</strong></a><br>
+      Cisco
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/55d12ca9-2707-4170-aa6e-11bf5fa11ce6/public_url">
+        <img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/linkedin_thumb_CCNAITN__1_.png" width="120" alt="CCNA: Introduction to Networks badge">
+      </a><br>
+      <a href="https://www.credly.com/badges/55d12ca9-2707-4170-aa6e-11bf5fa11ce6/public_url"><strong>CCNA: Introduction to Networks</strong></a><br>
+      Cisco
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/c4a60135-3287-4c96-b7dc-afcd1b83af63/public_url">
+        <img src="https://images.credly.com/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/linkedin_thumb_image.png" width="120" alt="Junior Cybersecurity Analyst Career Path badge">
+      </a><br>
+      <a href="https://www.credly.com/badges/c4a60135-3287-4c96-b7dc-afcd1b83af63/public_url"><strong>Junior Cybersecurity Analyst Career Path</strong></a><br>
+      Cisco
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/260c5b3e-5753-4f78-b34b-ad79ca0792df/public_url">
+        <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/linkedin_thumb_I2CS__1_.png" width="120" alt="Introduction to Cybersecurity badge">
+      </a><br>
+      <a href="https://www.credly.com/badges/260c5b3e-5753-4f78-b34b-ad79ca0792df/public_url"><strong>Introduction to Cybersecurity</strong></a><br>
+      Cisco
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/36b98581-8c8b-4568-a287-db752a3c31b7/public_url">
+        <img src="https://images.credly.com/images/8bf3e17f-1982-4539-a1f7-ba85c749407a/linkedin_thumb_blob" width="120" alt="Networking Academy Learn-A-Thon 2025 badge">
+      </a><br>
+      <a href="https://www.credly.com/badges/36b98581-8c8b-4568-a287-db752a3c31b7/public_url"><strong>Networking Academy Learn-A-Thon 2025</strong></a><br>
+      Cisco
+    </td>
+  </tr>
+</table>
+
+### Additional Training
+
 - Google Cybersecurity Professional Certificate, in progress
-- Enterprise Networking, Security, and Automation, Cisco Networking Academy
-- Junior Cybersecurity Analyst Career Path, Cisco Networking Academy
 - Cybersecurity Essentials, Cisco Networking Academy
-- Introduction to Cybersecurity, Cisco Networking Academy
-- Switching, Routing, and Wireless Essentials, Cisco Networking Academy
-- Introduction to Networks, Cisco Networking Academy
 
 ## Technical Skills
 
