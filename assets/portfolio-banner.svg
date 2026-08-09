@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Naqimuddin Aqil portfolio banner</title>
+  <desc id="desc">Dark blue technology banner for IT, networking, and cybersecurity.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071A2B"/>
+      <stop offset="0.55" stop-color="#0B3D5C"/>
+      <stop offset="1" stop-color="#075A72"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#42D3E6"/>
+      <stop offset="1" stop-color="#7BF2C5"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1280" height="360" rx="22" fill="url(#bg)"/>
+  <g opacity="0.18" stroke="#79E7F2" stroke-width="1">
+    <path d="M0 70H1280M0 140H1280M0 210H1280M0 280H1280"/>
+    <path d="M120 0V360M260 0V360M400 0V360M540 0V360M680 0V360M820 0V360M960 0V360M1100 0V360"/>
+  </g>
+  <g transform="translate(82 74)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M30 48L112 18L190 62L170 146L96 190L24 142Z" stroke="#42D3E6" stroke-width="3" opacity="0.9"/>
+    <path d="M30 48L96 100L190 62M96 100L96 190M24 142L96 100L170 146" stroke="#7BF2C5" stroke-width="2" opacity="0.72"/>
+    <g fill="#E9FCFF" stroke="#42D3E6" stroke-width="3" filter="url(#glow)">
+      <circle cx="30" cy="48" r="7"/><circle cx="112" cy="18" r="7"/><circle cx="190" cy="62" r="7"/>
+      <circle cx="170" cy="146" r="7"/><circle cx="96" cy="190" r="7"/><circle cx="24" cy="142" r="7"/><circle cx="96" cy="100" r="9"/>
+    </g>
+    <path d="M96 72L124 83V107C124 128 112 143 96 151C80 143 68 128 68 107V83Z" fill="#0B3D5C" stroke="url(#accent)" stroke-width="4"/>
+    <path d="M84 108L93 117L110 96" stroke="#E9FCFF" stroke-width="5"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="350" y="142" fill="#FFFFFF" font-size="48" font-weight="700" letter-spacing="1">NAQIMUDDIN AQIL</text>
+    <text x="352" y="195" fill="#AEEEF4" font-size="25" font-weight="600" letter-spacing="3">IT  |  NETWORKING  |  CYBERSECURITY</text>
+    <rect x="352" y="221" width="680" height="5" rx="2.5" fill="url(#accent)"/>
+    <text x="352" y="267" fill="#D7F5F7" font-size="19">Electronic Network Design | Troubleshooting | Automation | Security</text>
+  </g>
+  <g transform="translate(1136 56)" fill="none" stroke="#7BF2C5" opacity="0.65">
+    <circle cx="0" cy="0" r="7" fill="#7BF2C5"/>
+    <circle cx="54" cy="62" r="7" fill="#42D3E6"/>
+    <circle cx="-22" cy="134" r="7" fill="#7BF2C5"/>
+    <circle cx="62" cy="210" r="7" fill="#42D3E6"/>
+    <path d="M0 0L54 62L-22 134L62 210" stroke-width="2"/>
+  </g>
+</svg>
+
