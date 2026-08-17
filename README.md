@@ -83,7 +83,15 @@ Hands-on networking labs covering switching, routing, subnetting, VLAN segmentat
 
 → [View Networking Labs](projects/networking-labs/README.md)
 
-### 2. Large-Scale Device Imaging and Deployment
+### 2. Cloud Infrastructure Security and Access Control
+
+Google Cloud Platform security mini project for **NMK40103 Network Security Technology**, demonstrating VPC firewall rules, network tags, SSH whitelisting, Identity-Aware Proxy, IAM least privilege and automated Apache deployment.
+
+**Key outcomes:** implemented layered security controls and verified that authorized access succeeded while unauthorized SSH access was blocked.
+
+→ [View Cloud Security Project](projects/cloud-infrastructure-security/README.md)
+
+### 3. Large-Scale Device Imaging and Deployment
 
 Industrial training project involving large-scale preparation, imaging, verification and deployment support for HP desktops, HP notebooks and ASUS notebooks.
 
@@ -91,13 +99,13 @@ Industrial training project involving large-scale preparation, imaging, verifica
 
 → [View Deployment Project](projects/device-deployment/README.md)
 
-### 3. Cybersecurity Labs
+### 4. Cybersecurity Labs
 
 Practical exercises covering Linux authorization, SQL investigation, network traffic analysis, tcpdump, Wireshark, incident response, risk assessment and security frameworks.
 
 → [View Cybersecurity Portfolio](projects/cybersecurity-labs/README.md)
 
-### 4. AI-Powered Social Media Content Scheduler
+### 5. AI-Powered Social Media Content Scheduler
 
 Final Year Project focused on an automated content scheduling workflow using **n8n, APIs, generative AI and Telegram**.
 
@@ -105,13 +113,13 @@ Final Year Project focused on an automated content scheduling workflow using **n
 
 → [View Project](projects/ai-content-scheduler/README.md)
 
-### 5. IoT-Based Oyster Mushroom Farm Monitoring System
+### 6. IoT-Based Oyster Mushroom Farm Monitoring System
 
 ESP32-based environmental monitoring system using sensors, Firebase, automated control and Telegram notifications.
 
 → [View Project](projects/iot-mushroom-monitoring/README.md)
 
-### 6. PID Control System Simulator
+### 7. PID Control System Simulator
 
 MATLAB-based simulator for visualising PID response and applying Ziegler-Nichols tuning concepts.
 
@@ -194,7 +202,7 @@ Bachelor of Electronic Engineering Technology (Electronic Network Design) with H
 ## Portfolio Roadmap
 
 - [x] Build a network-focused GitHub profile
-- [x] Document networking, cybersecurity and infrastructure projects
+- [x] Document networking, cloud-security, cybersecurity and infrastructure projects
 - [x] Add internship and technical work experience
 - [x] Add verified Cisco Credly badges
 - [ ] Expand VLAN, routing and ACL labs
