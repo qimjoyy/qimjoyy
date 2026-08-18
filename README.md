@@ -64,37 +64,43 @@ Hands-on switching and routing labs covering VLANs, trunking, router-on-a-stick,
 
 → **[View Networking Labs](https://github.com/qimjoyy/qimjoyy/tree/main/projects/networking-labs)**
 
-### 02 — Cloud Infrastructure Security & Access Control
+### 02 — ENSA Assignment: Enterprise Networking, Security & Automation
+
+UniMAP academic project for **NMK40803 Enterprise Networking, Security, and Automation**, covering VLSM IPv4 addressing, Cisco IOS configuration, Single-Area OSPFv2, OSPF optimization and extended ACL security policies.
+
+→ **[View ENSA Assignment](https://github.com/qimjoyy/qimjoyy/tree/main/projects/ensa-assignment)**
+
+### 03 — Cloud Infrastructure Security & Access Control
 
 Google Cloud Platform mini project for **NMK40103 Network Security Technology**, demonstrating VPC firewall rules, network tags, SSH whitelisting, Identity-Aware Proxy, IAM least privilege and automated Apache deployment.
 
 → **[View Cloud Security Project](https://github.com/qimjoyy/qimjoyy/tree/main/projects/cloud-infrastructure-security)**
 
-### 03 — Large-Scale Device Imaging & Deployment
+### 04 — Large-Scale Device Imaging & Deployment
 
 Industrial training project involving large-scale preparation, imaging, verification and deployment support for HP desktops, HP notebooks and ASUS notebooks.
 
 → **[View Deployment Project](https://github.com/qimjoyy/qimjoyy/tree/main/projects/device-deployment)**
 
-### 04 — Cybersecurity Labs
+### 05 — Cybersecurity Labs
 
 Practical exercises covering Linux authorization, SQL investigation, DNS/ICMP analysis, tcpdump, Wireshark, incident response, risk assessment and security frameworks.
 
 → **[View Cybersecurity Portfolio](https://github.com/qimjoyy/qimjoyy/tree/main/projects/cybersecurity-labs)**
 
-### 05 — AI-Powered Social Media Content Scheduler
+### 06 — AI-Powered Social Media Content Scheduler
 
 Final Year Project focused on automated content scheduling using n8n, APIs, generative AI and Telegram.
 
 → **[View Project](https://github.com/qimjoyy/qimjoyy/tree/main/projects/ai-content-scheduler)**
 
-### 06 — IoT-Based Oyster Mushroom Farm Monitoring System
+### 07 — IoT-Based Oyster Mushroom Farm Monitoring System
 
 ESP32-based environmental monitoring system using sensors, Firebase, automated control and Telegram notifications.
 
 → **[View Project](https://github.com/qimjoyy/qimjoyy/tree/main/projects/iot-mushroom-monitoring)**
 
-### 07 — PID Control System Simulator
+### 08 — PID Control System Simulator
 
 MATLAB-based simulator for visualising PID response and applying Ziegler-Nichols tuning concepts.
 
